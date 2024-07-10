@@ -7,6 +7,9 @@ There are several games with sword combat, where its only based on animations, a
 1. You can move sword freely, if you press the left mouse button
 2. If you move the mouse to a specific point, the arm rotates to start an attack
 3. If the mouse moves to the other direction of the specific point, which starts the attack, the player is able to swing with the sword and damage the target.
+4. the npc's can fight each other and the player
+
+I have a lot of ideas, how this game could be very fun. If i implement a sandbox world, where the player can visit city's, buy items in one village or earn them by himself and sell it to the bigger cities for profit, the player can make profits and buy goods, village's/city's or hire people, which can work or fight for him. He could choose a good or evil path, where he raids other people and villages. If the player does something evil, he will get enemy's and this path isn't easier in the long run. The enviroment could be designed very beautiful and the details of the npc's could be amazing. The player has a lot of oppertunities and can reach in this sandbox world everything he wants. The combat system should be developed further too. It would be very fun, if the player can level up his soldiers/workers, give them specific weapons for a benefit and a different fighting strategy. The world should have a logic too, as example the harmony between different village's, city's and maybe alliances of multiple tribes. If a village is near a forest, they would probably sell wood. If a village is good in hunting and they have a lot of animals, they could sell food. The world does run on it's own too. Different tribes can conquer others, work with them or something else. The motivation of the player is to be part of a world, which doesn't stop and where he can do whatever he wants. He could try to conquer as much territory as possible and fight of the rebels which will come up, if one city is not managed well. As you see there is a lot of stuff, that can be implemented, and it could have very much potential. There are only 2 things that make it hard. 1) the more features this game has, the more perfomance optimisation it needs, and there has to be very smart strategy's, to make it work. 2) Time and ressources are limited. For such a complex idea, its important to have both. Without a team and experts in tit's not easy 
 
 ## How did i create the enviroment and the objects?
 
@@ -60,4 +63,34 @@ https://github.com/einUserr/unity_test/assets/125313673/15133f0f-6190-4f52-8fb0-
 
 https://github.com/einUserr/unity_test/assets/125313673/3f9f4639-7e62-4fdd-b61b-d128f3fce850
 
+
+
+
+
+https://github.com/einUserr/unity_test/assets/125313673/6483de19-bd6b-41a2-93e4-a27474ae2721
+
+
+
+https://github.com/einUserr/unity_test/assets/125313673/a5aef844-9f76-47ea-9bf6-f4c9656a4219
+
+
+
+https://github.com/einUserr/unity_test/assets/125313673/1a801cdf-32e5-4850-93fa-58c2da3c6845
+
+
+
+
+https://github.com/einUserr/unity_test/assets/125313673/d1e270c3-1933-4fe5-90bc-ddf3bdf0daa0
+
+https://github.com/einUserr/unity_test/assets/125313673/a70cbda7-7d6d-4572-9a5e-9ac407066af4
+
+
+
+
+
+https://github.com/einUserr/unity_test/assets/125313673/7145fc95-afef-4116-be49-f75da3fb0e67
+
+
+
+https://github.com/einUserr/unity_test/assets/125313673/207514e0-0aca-4894-8678-ffba72f4937c
 
