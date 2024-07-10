@@ -46,7 +46,7 @@ I started very simple and programmed these steps:
 16. now if the sword collides with the enemy, it checks if the collision object has a "HealthScript" component and then we call the takedamage function. I did this because of two reasons: 1) thats a good way to filter the collision object to a destroyable object with health 2) we would get an error, if we call a function from an object, that doesnt even have a HealthScript component.
 
 ## Source Code
-You can find all the scripts in the folder called "src".
+You can find all the scripts in the folder called "src". Some scripts are not visible here, because i once had to reset my computer and i forget to create a backup. I had a fix for a problem i had for a long period of time and it's very sad that the solution now got deleted, but if i find the time, i will go back to implement more features and make the combat even better.
 
 ## Videos
 https://github.com/einUserr/unity_test/assets/125313673/d1e48634-4816-49d9-83d4-5776a6f5aded
@@ -104,5 +104,55 @@ https://github.com/einUserr/unity_test/assets/125313673/3c711633-3c08-42f2-8ec8-
 
 
 
+
 https://github.com/einUserr/unity_test/assets/125313673/16a7714f-d169-47b1-9b66-63b7e655684b
+
+
+https://github.com/einUserr/unity_test/assets/125313673/cd9543b9-89ef-4311-bda8-81b1cca56729
+
+
+
+
+
+
+https://github.com/einUserr/unity_test/assets/125313673/81d450a4-4f02-4503-b6c1-093791ad60ab
+
+https://github.com/einUserr/unity_test/assets/125313673/bf0b1e19-7b5c-492f-b746-c6dd0d4e9e93
+
+
+
+
+https://github.com/einUserr/unity_test/assets/125313673/e4b56964-b062-4af9-8641-edc187edc34c
+
+
+
+
+https://github.com/einUserr/unity_test/assets/125313673/e083c5a7-7c83-4752-9f42-4422aa79f4a4
+
+
+
+
+https://github.com/einUserr/unity_test/assets/125313673/4fb2ba6b-8470-433a-b8c3-065cc4dee5d5
+
+
+
+
+
+
+https://github.com/einUserr/unity_test/assets/125313673/389e1d8a-4809-42cf-aca3-0acd937e2ca9
+
+
+
+
+https://github.com/einUserr/unity_test/assets/125313673/f2e2972a-793e-48e9-8bdc-9f52b1a376b1
+
+
+https://github.com/einUserr/unity_test/assets/125313673/95446f2d-021d-4449-b61a-f860af6c8d93
+
+
+
+
+
+
+https://github.com/einUserr/unity_test/assets/125313673/ec21dc09-17ce-4f33-9365-5b4914bfcc56
 
