@@ -42,6 +42,7 @@ I started very simple and programmed these steps:
 15. now we want to add a functionality, that can let the character die, if his health is equal or under zero
 16. now if the sword collides with the enemy, it checks if the collision object has a "HealthScript" component and then we call the takedamage function. I did this because of two reasons: 1) thats a good way to filter the collision object to a destroyable object with health 2) we would get an error, if we call a function from an object, that doesnt even have a HealthScript component.
 
+## Videos
 https://github.com/einUserr/unity_test/assets/125313673/d1e48634-4816-49d9-83d4-5776a6f5aded
 
 ![vor-gif-1 (1)](https://github.com/einUserr/unity_test/assets/125313673/b73db419-0693-4782-a981-c3de10a1479a)
