@@ -49,7 +49,14 @@ I started very simple and programmed these steps:
 You can find all the scripts in the folder called "src". Some scripts are not visible here, because i once had to reset my computer and i forget to create a backup. I had a fix for a problem i had for a long period of time and it's very sad that the solution now got deleted, but if i find the time, i will go back to implement more features and make the combat even better.
 
 ## Videos
-https://github.com/einUserr/unity_test/assets/125313673/d1e48634-4816-49d9-83d4-5776a6f5aded
+
+https://github.com/einUserr/unity_test/assets/125313673/1a801cdf-32e5-4850-93fa-58c2da3c6845
+
+
+https://github.com/einUserr/unity_test/assets/125313673/d1e270c3-1933-4fe5-90bc-ddf3bdf0daa0
+
+https://github.com/einUserr/unity_test/assets/125313673/a70cbda7-7d6d-4572-9a5e-9ac407066af4
+
 
 ![vor-gif-1 (1)](https://github.com/einUserr/unity_test/assets/125313673/b73db419-0693-4782-a981-c3de10a1479a)
 
@@ -72,20 +79,6 @@ https://github.com/einUserr/unity_test/assets/125313673/6483de19-bd6b-41a2-93e4-
 
 
 https://github.com/einUserr/unity_test/assets/125313673/a5aef844-9f76-47ea-9bf6-f4c9656a4219
-
-
-
-https://github.com/einUserr/unity_test/assets/125313673/1a801cdf-32e5-4850-93fa-58c2da3c6845
-
-
-
-
-https://github.com/einUserr/unity_test/assets/125313673/d1e270c3-1933-4fe5-90bc-ddf3bdf0daa0
-
-https://github.com/einUserr/unity_test/assets/125313673/a70cbda7-7d6d-4572-9a5e-9ac407066af4
-
-
-
 
 
 https://github.com/einUserr/unity_test/assets/125313673/7145fc95-afef-4116-be49-f75da3fb0e67
